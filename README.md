@@ -94,19 +94,8 @@ El software se divide en **3 estados principales** definidos mediante macros (`#
 
 # 9. Instrucciones de Uso y Ejecución
 
-### En Simulador Tinkercad:
-
-1. Abrir el circuito en Tinkercad y pegar el código fuente en la pestaña **Código (Texto)**.
-2. Presionar **Iniciar Simulación** y abrir el **Monitor en Serie** para observar las variables.
-3. Hacer **1 click** en el pulsador para encender la lámpara en Modo Manual y girar la perilla del potenciómetro para regular la intensidad del LED.
-4. Hacer **1 click** adicional en el pulsador para activar el Modo Timer: se encenderá el LED rojo piloto y la luz principal comenzará a atenuarse gradualmente hasta apagarse a los 30 segundos (o presionar el botón una tercera vez para apagarla de inmediato).
-
-### En Hardware Físico (Arduino IDE):
-
-1. Conectar la placa Arduino UNO por USB a la computadora.
-2. Abrir el archivo del proyecto en Arduino IDE.
-3. Seleccionar la placa `Arduino Uno` y el puerto `COM` correspondiente en el menú *Herramientas*.
-4. Presionar **Subir (Upload)** y abrir el **Monitor Serie** configurado a `9600 baudios`.
+1. Hacer **1 click** en el pulsador para encender la lámpara en Modo Manual y girar la perilla del potenciómetro para regular la intensidad del LED.
+2. Hacer **1 click** adicional en el pulsador para activar el Modo Timer: se encenderá el LED rojo piloto y la luz principal comenzará a atenuarse gradualmente hasta apagarse a los 30 segundos (o presionar el botón una tercera vez para apagarla de inmediato).
 
 # 10. Imágenes y Demostración
 
