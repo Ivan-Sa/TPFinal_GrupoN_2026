@@ -1,6 +1,6 @@
 [readme.md](https://github.com/user-attachments/files/35051957/readme.md)
-# TPFinal_GrupoN_2026# 
-1. Título y Descripción del Sistema
+# TPFinal_GrupoN_2026
+# 1. Título y Descripción del Sistema
 
 **Velador Inteligente con Regulador de Brillo (Dimmer) y Timer de Auto-Apagado Gradual**
 
